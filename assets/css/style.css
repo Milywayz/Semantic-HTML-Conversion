@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* This needed to be changed to semantic HTML */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +16,18 @@ header {
     color: #ffffff;
 }
 
+/* This needed to be changed because the semantic HTML was changed on line 11 */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* This needed to be changed because the semantic HTML was changed on line 11 */
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/* This needed to be changed to semantic HTML */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,10 +36,12 @@ header nav {
     font-size: 20px;
 }
 
+/* This needed to be changed because the semantic HTML was changed on line 31 */
 header nav ul {
     list-style-type: none;
 }
 
+/* This needed to be changed because the semantic HTML was changed on line 31 */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
