@@ -2,7 +2,7 @@
 
 ## Description
 
-This homework was made for us to change basic div and convert it into semantic HTML for our Index file and CSS file. Also to help us get used to using git commands on changes and to add comments in CSS
+This homework was made for us to change basic div and convert it into semantic HTML for our Index file and CSS file. Also to help us get used to using git commands on changes and to add comments in CSS.
 
 ## Installation
 
