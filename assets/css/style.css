@@ -28,7 +28,7 @@ header h1 .seo {
 }
 
 /* This needed to be changed to semantic HTML */
-header section {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -37,12 +37,12 @@ header section {
 }
 
 /* This needed to be changed because the semantic HTML was changed on line 31 */
-header section ul {
+header nav ul {
     list-style-type: none;
 }
 
 /* This needed to be changed because the semantic HTML was changed on line 31 */
-header section ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
