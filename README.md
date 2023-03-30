@@ -15,3 +15,5 @@ This was used to help us learn semantic HTML in the Index and CSS folders while 
 ## License
 
 N/A
+
+![Alt text](/assets/images/image.png)
